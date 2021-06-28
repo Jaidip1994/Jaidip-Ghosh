@@ -1,4 +1,4 @@
-### Hi there, I'm Jaidip! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Jaidip! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![counter](https://enj0pxr0mzzqbdz.m.pipedream.net)  
 
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
@@ -8,7 +8,8 @@
   - 🌱 I’m currently learning Machine Learning, JAVA Spring and SAP Technologies 
   - 💬 Ask me about Python, Java and ML
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: I love to explore new Things :rofl: and play Computer games 
+  - ⚡ Fun fact: I love to explore new Things :rofl: and play Computer games
+
 ### 📫 How to reach me: ...
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/jaidip1994/)  &nbsp; 
