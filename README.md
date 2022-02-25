@@ -39,8 +39,11 @@
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=jaidip1994&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jaidip1994&layout=compact&hide_border=true&theme=darcula&bg_color=00000000">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=jaidip1994&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Jaidip1994&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&dates=6CDD92">
+  <br/>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
   <br>
 </p>
+  
 
 ### 💾 EOF
